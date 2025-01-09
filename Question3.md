@@ -1,5 +1,5 @@
 ---
-title: Remedial Classes: Students with Scores Below 50 in atleasst one subject and Gender-Wise Count
+title: "Remedial Classes: List of Students with Scores Below 50 and Gender-Wise Count"
 ---
 
 # Problem Statement
